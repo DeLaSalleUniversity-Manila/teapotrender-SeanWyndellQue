@@ -1,0 +1,31 @@
+-shared
+-Wl,-soname,libTeapotNativeActivity.so
+-o
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\binaries\\debug\\arm7\\obj\\armeabi-v7a\\libTeapotNativeActivity.so"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainC\\7n0ivhbiu6286f1hygpi1fvqw\\cpu-features.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainC\\94kc97gcqyf4ka8fk0o2fumtr\\android_native_app_glue.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainC\\aviw0daiciurdh3l8egux6p6n\\gl3stub.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\1azvoitm4fx7w84ive3hbtkm\\interpolator.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\1dv8z2nzja2booedzgmqkhmxw\\tapCamera.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\1lwrejfgw679apy8t4vbiyh98\\TeapotRenderer.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\1zo3xsbh3n273y7htfxzawxso\\perfMonitor.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\2bgl7w3sjo8nno6l091qxmkd2\\GLContext.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\31enntizowc36b8xvjw35hwhh\\JNIHelper.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\787b9wu11htajz58ruygu75rf\\TeapotNativeActivity.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\crbpu22e2kpo3dujdaaar3xn4\\gestureDetector.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\d6vugkqdv0caf4wqedw4m72gg\\vecmath.o"
+"C:\\Users\\Jerald\\Desktop\\android codes\\Teapot\\app\\build\\intermediates\\objectFiles\\armeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary\\TeapotNativeActivityMainCpp\\e3thusveudwqrubeka8invt2k\\shader.o"
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=C:\\android-ndk-r10e/platforms/android-21/arch-arm
+-Wl,--build-id
+-LC:\\android-ndk-r10e\\sources\\cxx-stl\\stlport\\libs\\armeabi-v7a
+-lstlport_static
+-no-canonical-prefixes
+-landroid
+-lEGL
+-lGLESv2
+-ldl
+-llog
